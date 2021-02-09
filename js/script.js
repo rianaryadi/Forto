@@ -1,4 +1,4 @@
-const txtElement = ['egisart06', 'Desain kaos', 'Desain Logo'];
+const txtElement = ['Design Custom', 'Illustrator'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
